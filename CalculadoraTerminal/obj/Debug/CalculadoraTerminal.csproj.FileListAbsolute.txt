@@ -1,0 +1,7 @@
+C:\Users\games\OneDrive\Documentos\c#-Alura\CalculadoraTerminal\CalculadoraTerminal\bin\Debug\CalculadoraTerminal.exe.config
+C:\Users\games\OneDrive\Documentos\c#-Alura\CalculadoraTerminal\CalculadoraTerminal\bin\Debug\CalculadoraTerminal.exe
+C:\Users\games\OneDrive\Documentos\c#-Alura\CalculadoraTerminal\CalculadoraTerminal\bin\Debug\CalculadoraTerminal.pdb
+C:\Users\games\OneDrive\Documentos\c#-Alura\CalculadoraTerminal\CalculadoraTerminal\obj\Debug\CalculadoraTerminal.csproj.AssemblyReference.cache
+C:\Users\games\OneDrive\Documentos\c#-Alura\CalculadoraTerminal\CalculadoraTerminal\obj\Debug\CalculadoraTerminal.csproj.CoreCompileInputs.cache
+C:\Users\games\OneDrive\Documentos\c#-Alura\CalculadoraTerminal\CalculadoraTerminal\obj\Debug\CalculadoraTerminal.exe
+C:\Users\games\OneDrive\Documentos\c#-Alura\CalculadoraTerminal\CalculadoraTerminal\obj\Debug\CalculadoraTerminal.pdb
